@@ -4,7 +4,7 @@
 
 ### Grading Policies
 
-
+![image](https://github.com/Einsgates/CS357/blob/master/1.Introduction/img/gradingPolicies.png)
 
 ## 2. Python
 
