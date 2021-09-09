@@ -22,9 +22,13 @@
 
 [code](https://github.com/Einsgates/CS357/tree/master/3.ErrorsAndBig-O)
 
+[HW2](https://github.com/Einsgates/CS357/blob/master/3.ErrorsAndBig-O/HW2.md)
+
 ## Quiz 1-Practice
 
 [code](https://github.com/Einsgates/CS357/tree/master/Quiz1_Practice/code)
+
+[Problems](https://github.com/Einsgates/CS357/blob/master/Quiz1_Practice/Problems.md)
 
 ## 4. Floating Point
 
