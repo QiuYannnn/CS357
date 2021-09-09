@@ -22,7 +22,9 @@
 
 
 
+## Quiz 1-Practice
 
+[code](https://github.com/Einsgates/CS357/tree/master/Quiz1_Practice/code)
 
 ## 4. Floating Point
 
