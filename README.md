@@ -20,7 +20,7 @@
 
 [Notes](https://courses.grainger.illinois.edu/cs357/fa2021/notes/ref-3-error.html)
 
-
+[code](https://github.com/Einsgates/CS357/tree/master/3.ErrorsAndBig-O)
 
 ## Quiz 1-Practice
 
