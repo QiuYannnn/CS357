@@ -10,15 +10,17 @@
 
 [W3 School](https://www.w3schools.com/python/default.asp)
 
-[Lecture](https://www.w3schools.com/python/default.asp)
+[Notes](https://courses.grainger.illinois.edu/cs357/fa2021/notes/ref-2-python.html)
 
 [code](https://github.com/Einsgates/CS357/tree/master/2.Python/code)
 
-[T2-HW1]()
+[HW1](https://github.com/Einsgates/CS357/blob/master/2.Python/HW1.md)
 
 ## 3. Errors and Big-O
 
 [Notes](https://courses.grainger.illinois.edu/cs357/fa2021/notes/ref-3-error.html)
+
+
 
 
 
